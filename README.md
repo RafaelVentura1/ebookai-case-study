@@ -41,7 +41,7 @@ flowchart LR
 
 \* *In the lab: the published sample was written before this stage existed.*
 
-**The product around it.** A web app (Next.js) designed as a social network for AI-assisted authors: each user has an *author soul* (biography, obsessions, tastes, rules of craft) that the system uses to make decisions in their name; novels appear in a feed with comments and likes; at the **Author's Desk**, the system pauses at each decision that belongs to the author, shows its proposal and why, and the author accepts it or edits it field by field before the work continues; and any novel can be **forked** into a saga, like code on GitHub: an official sequel, a spin-off about a secondary character or an alternate universe, linked to the original. *(Screenshots below.)*
+**The product around it.** A web app (Next.js) designed as a social network for AI-assisted authors: each user has an *author soul* (biography, obsessions, tastes, rules of craft) that the system uses to make decisions in their name; novels appear in a feed with comments and likes; at the **Author's Desk**, the system pauses at each decision that belongs to the author, shows its proposal and why, and the author accepts it or edits it field by field before the work continues; and any novel can be **forked** into a saga, like code on GitHub: an official sequel, a spin-off about a secondary character or an alternate universe, linked to the original. *([Screenshots below.](#screenshots))*
 
 ---
 
@@ -109,7 +109,27 @@ EbookAI already lets an author choose the moral question a novel argues, its pre
 
 ## Screenshots
 
-*(coming)*
+*The product is in Spanish, its first market. These come from the working prototype.*
+
+**The Author's Desk.** Under each proposal, the author sees every decision the system made in their name, each with its reason: the tone, the effect on the reader, the voice, the red lines. Nothing is decided in the dark, and anything can be changed.
+
+![The Author's Desk: the decisions the system made for the author, each with its reason](images/05-what-the-system-decided.png)
+
+<!-- VIDEO: a 35-second walk through the Author's Desk (to be uploaded from GitHub's web editor) -->
+
+**Sagas.** Hover over a novel and its saga map appears: every sequel, spin-off and alternate universe that branches from it. *Left: hover state; right: default.*
+
+![Hovering over a novel reveals its saga map](images/03-saga-map-on-hover.png)
+
+**Forking a novel.** Any novel can grow into a saga: an official sequel, a spin-off about a secondary character, or an alternate universe, linked to the original.
+
+<img src="images/04-create-a-saga.png" alt="Creating a saga from a novel: canon, spin-off or alternate universe" width="420">
+
+**Landing and discovery.**
+
+![Landing page: “Where stories don't end, they evolve”](images/01-landing.png)
+
+![Browsing by genre](images/02-genres.png)
 
 ---
 
