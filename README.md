@@ -115,7 +115,9 @@ EbookAI already lets an author choose the moral question a novel argues, its pre
 
 ![The Author's Desk: the decisions the system made for the author, each with its reason](images/05-what-the-system-decided.png)
 
-<!-- VIDEO: a 35-second walk through the Author's Desk (to be uploaded from GitHub's web editor) -->
+
+https://github.com/user-attachments/assets/90fe1490-0ad2-4226-bcda-63b04c4ca487
+
 
 **Sagas.** Hover over a novel and its saga map appears: every sequel, spin-off and alternate universe that branches from it. *Left: hover state; right: default.*
 
